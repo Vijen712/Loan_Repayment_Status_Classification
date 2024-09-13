@@ -40,24 +40,6 @@ Package requirements :`pip install -r requirements.txt`
 
 **modeling.py** : it is incorpated with the model codes, called by main .py
 
-## Contributions
-
-**Business Understanding, Data Collection**- Charan, Vijen, Gyana
-
-**Data Preprocessing** - Charan, Gyana, Vijen
-
-**EDA** - Gyana, Charan, Vijen
-
-**Data Transformation** - Vijen, Gyana , Charan
-
-**Modeling** - Vijen, Charan, Gyana
-
-**Evaluation** - Gyana, Vijen , Charan
-
-**Modular programming, IDE, Github** - Charan, Vijen, Gyana
-
-**PPT and Report** - Charan, Vijen, Gyana
-
 
 
 
